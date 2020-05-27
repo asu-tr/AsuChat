@@ -14,7 +14,7 @@ def change_username():
 
     new_username = usernameEntry.get()
 
-    # Checking
+    # Checking if there is sth written
     if new_username:
         username = new_username
         usernameEntry.delete(first=0, last=100)
