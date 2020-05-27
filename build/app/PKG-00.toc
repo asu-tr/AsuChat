@@ -33,7 +33,7 @@
    'C:\\Program Files '
    '(x86)\\Python38-32\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
    'PYSOURCE'),
-  ('app', 'C:\\Users\\Asu\\PycharmProjects\\AsuChat\\app.py', 'PYSOURCE'),
+  ('app', 'C:\\Users\\Asu\\PycharmProjects\\AsuChat\\app.pyw', 'PYSOURCE'),
   ('app.exe.manifest',
    'C:\\Users\\Asu\\PycharmProjects\\AsuChat\\build\\app\\app.exe.manifest',
    'BINARY')],

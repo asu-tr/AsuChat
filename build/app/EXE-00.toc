@@ -1,5 +1,5 @@
 ('C:\\Users\\Asu\\PycharmProjects\\AsuChat\\build\\app\\app.exe',
- True,
+ False,
  False,
  True,
  None,
@@ -36,15 +36,15 @@
    'C:\\Program Files '
    '(x86)\\Python38-32\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
    'PYSOURCE'),
-  ('app', 'C:\\Users\\Asu\\PycharmProjects\\AsuChat\\app.py', 'PYSOURCE'),
+  ('app', 'C:\\Users\\Asu\\PycharmProjects\\AsuChat\\app.pyw', 'PYSOURCE'),
   ('app.exe.manifest',
    'C:\\Users\\Asu\\PycharmProjects\\AsuChat\\build\\app\\app.exe.manifest',
    'BINARY')],
  [],
  False,
  False,
- 1590576850,
- [('run.exe',
+ 1590584619,
+ [('runw.exe',
    'c:\\program files '
-   '(x86)\\python38-32\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\run.exe',
+   '(x86)\\python38-32\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\runw.exe',
    'EXECUTABLE')])

@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['app.py'],
+a = Analysis(['app.pyw'],
              pathex=['C:\\Users\\Asu\\PycharmProjects\\AsuChat'],
              binaries=[],
              datas=[],
@@ -26,7 +26,7 @@ exe = EXE(pyz,
           bootloader_ignore_signals=False,
           strip=False,
           upx=True,
-          console=True )
+          console=False )
 coll = COLLECT(exe,
                a.binaries,
                a.zipfiles,
