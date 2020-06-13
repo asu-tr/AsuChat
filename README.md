@@ -1,5 +1,5 @@
 # AsuChat :mailbox_with_mail:
-Chatroom on local network  with GUI (tkinter) written in Python
+Do you want to chat on your local network even if you don't have internet access? Then this app is for you. It's developed for Windows machines and doesn't need any other app.
 
 ## How to use?
 1. Download preferred verison at '/dist/' and run app.exe
