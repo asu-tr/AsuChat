@@ -9,6 +9,6 @@ Check codes for translation of strings
 3. Start messaging!
 
 ## Nasıl kullanılır?
-1. İstenen versiyonu '/dist/' klasöründne indirin ve app.exe'yi çalıştırın
+1. İstenen versiyonu '/dist/' klasöründen indirin ve app.exe'yi çalıştırın
 2. Sağ üst köşeden kullanıcı adınızı değiştirin
 3. Mesajlaşmaya başlayın!
